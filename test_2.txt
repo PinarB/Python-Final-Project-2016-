@@ -1,0 +1,13 @@
+Gender,Race-Ethnicity,Age,Hourly wage
+Male,White,31 to 40,21 to 50/hr
+Male,Black,31 to 40,21 to 50/hr
+Female,White,41 to 50,21 to 50/hr
+Female,White,51 and over,51 to 100/hr
+Female,Asian,30 and under,20/hr or below
+Male,White,51 and over,21 to 50/hr
+Other,White,31 to 40,21 to 50/hr
+Female,Black,31 to 40,21 to 50/hr
+Male,White,30 and under,21 to 50/hr
+Male,Other,51 and over,21 to 50/hr
+Female,White,41 to 50,over 100/hr
+Other,Black,30 and under,20/hr or below

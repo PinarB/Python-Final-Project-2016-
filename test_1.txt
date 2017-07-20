@@ -1,0 +1,15 @@
+Gender, Race-Ethnicity, Age, Wage
+Female, Black, 41 to 50, 21 to 30/hr
+Male, White, 31 to 40, 31 to 40/hr
+Other, Native American, 51 and over, 51/hr and over
+Female, White, 30 and under, 41 to 50/hr
+Female, Black, 31 to 40, 31 to 40/hr
+Male, Black, 41 to 50, 21 to 30/hr
+Male, White, 31 to 40, 31 to 40/hr
+Male, White, 51 and over, 31 to 40/hr
+Female, Asian, 30 and under, 20/hr and under
+Other, White, 31 to 40, 21 to 30/hr
+Female, Asian, 41 to 50, 41 to 50/hr
+Male, White, 51 and over, 21 to 30/hr
+Female, Native American, 30 and under, 51/hr and over
+Female, Other, 30 and under, 20/hr and under
